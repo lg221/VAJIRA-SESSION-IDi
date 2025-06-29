@@ -82,9 +82,9 @@ var randomItem = selectRandomItem(items);
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴠᴀᴊɪʀᴀ-ᴍᴅ",
-thumbnailUrl: "https://telegra.ph/file/e069027c2178e2c7475c9.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z",
+title: "ᴄᴀꜱᴘᴇᴇ-ᴍᴅ",
+thumbnailUrl: "https://files.catbox.moe/zzez8c.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029Vb6Vpuo2v1IqThY6aU0y",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -98,7 +98,7 @@ renderLargerThumbnail: true
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴠᴀᴊɪʀᴀ-ᴍᴅ",
+title: "ᴄᴀꜱᴘᴇʀ-ᴍꜱ",
 thumbnailUrl: "https://telegra.ph/file/e069027c2178e2c7475c9.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z",
 mediaType: 2,
